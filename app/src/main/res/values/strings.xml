@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Formularios</string>
+    <string name="hin_numero1">PRIMER NUMERO</string>
+    <string name="hin_numero2">SEGUNDO NUMERO</string>
+
+    <string name="btn_suma">SUMA</string>
+    <string name="btn_resta">RESTA</string>
+    <string name="btn_multi">MULTIPLICACION</string>}
+    <string name="btn_division">DIVISION</string>
+
+    <string name="txt_resultado">RESULTADO</string>
+
+
+
+</resources>
